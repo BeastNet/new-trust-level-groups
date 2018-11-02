@@ -1,0 +1,4 @@
+plugins:
+  trust_level_groups_enabled:
+    default: true
+    client: true

@@ -1,0 +1,35 @@
+.topic-meta-data .username.Basic::after {
+    content: "Basic";
+    margin-left: 1.6em;
+    background-color: #5bc0de;
+    border-radius: 0.40em;
+    padding: .2em .6em .3em;
+    color: white;
+}
+
+.topic-meta-data .username.Member::after {
+    content: "Member";
+    margin-left: 1.6em;
+    background-color: #5bc0de;
+    border-radius: 0.40em;
+    padding: .2em .6em .3em;
+    color: white;
+}
+
+.topic-meta-data .username.Regular::after {
+    content: "Regular";
+    margin-left: 1.6em;
+    background-color: #5bc0de;
+    border-radius: 0.40em;
+    padding: .2em .6em .3em;
+    color: white;
+}
+
+.topic-meta-data .username.Leader::after {
+    content: "Leader";
+    margin-left: 1.6em;
+    background-color: #5bc0de;
+    border-radius: 0.40em;
+    padding: .2em .6em .3em;
+    color: white;
+}
